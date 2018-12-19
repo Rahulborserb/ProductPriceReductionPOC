@@ -1,0 +1,8 @@
+com.jlp.ProductPriceReductionApp
+com.jlp.product
+com.jlp.product.config
+com.jlp.product.constant
+com.jlp.product.controller
+com.jlp.product.model
+com.jlp.product.model.response
+com.jlp.product.service
